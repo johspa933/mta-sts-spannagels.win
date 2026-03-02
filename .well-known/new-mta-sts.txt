@@ -1,0 +1,4 @@
+version: STAv1
+mode: enforce
+mx: mx.zoho.com
+max_age: 2419200
