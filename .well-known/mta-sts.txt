@@ -1,3 +1,4 @@
+<meta http-equiv="Content-Type" content="text/plain; charset=utf-8" />
 version: STAv1
 mode: enforce
 mx: mx.zoho.com
